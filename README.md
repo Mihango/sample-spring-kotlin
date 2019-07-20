@@ -4,4 +4,4 @@ Error org.apache.http.conn.HttpHostConnectException: Connect to localhost:2375 [
 
 Solve the error by exposing daemon without TLS
 
-![Screenshot](connect_error.jpg)
+![Screenshot](connect_error_2.jpg)
